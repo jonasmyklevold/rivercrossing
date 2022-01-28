@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/rivercrossing/event"
-	"github.com/rivercrossing/state"
+	"github.com/jonasmyklevdold/rivercrossing/event"
+	"github.com/jonasmyklevold/rivercrossing/state"
 )
 
 func main() {
