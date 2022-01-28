@@ -1,7 +1,7 @@
 package event
 
 import (
-	"github.com/rivercrossing/state"
+	"github.com/jonasmyklevold/rivercrossing/state"
 )
 
 var BoatInfo = state.StateBoat()
