@@ -1,9 +1,5 @@
 package event
 
-import (
-	"github.com/jonasmyklevold/rivercrossing/state"
-)
-
 var BoatInfo = state.StateBoat()
 var LeftInfo = state.StateLandL()
 var RightInfo = state.StateLandR()
