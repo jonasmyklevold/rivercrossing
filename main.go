@@ -3,9 +3,10 @@ package main
 import (
 	"bufio"
 	"fmt"
-	event "github.com/jonasmyklevold/rivercrossing"
-	state "github.com/jonasmyklevold/rivercrossing"
 	"os"
+
+	"github.com/rivercrossing/event"
+	"github.com/rivercrossing/state"
 )
 
 func main() {

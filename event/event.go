@@ -1,7 +1,7 @@
 package event
 
 import (
-	"main.go/state"
+	"github.com/rivercrossing/state"
 )
 
 var BoatInfo = state.StateBoat()
