@@ -1,4 +1,4 @@
-module github.com/jonasmyklevold/gomodule
+module main.go
 
 go 1.17
 

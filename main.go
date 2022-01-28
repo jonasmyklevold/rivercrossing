@@ -4,7 +4,6 @@ import (
 	"bufio"
 	"fmt"
 	state "github.com/jonasmyklevold/rivercrossing"
-	"github.com/jonasmyklevold/rivercrossing/event"
 	"os"
 )
 
